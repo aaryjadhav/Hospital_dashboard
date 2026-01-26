@@ -65,7 +65,7 @@ I utilized a **Star Schema** to ensure fast filtering and simple DAX maintenance
 ## 📂 Repository Structure
 
 ```
-├── Data/               # Raw datasets used for the project
+├── Excel Files - Direct Import/               # Raw datasets used for the project
 ├── MySQL Database/     # SQL script for database schema/data
 ├── Dashboard/          # The .pbix Power BI file
 ├── Images/             # Dashboard screenshots, backgrounds, and icons
