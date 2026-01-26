@@ -1,4 +1,5 @@
 # 🏥 Hospital Analytics Dashboard | Power BI
+<img width="1920" height="1080" alt="Blue and White Modern Hospital Services Medical Presentation" src="https://github.com/user-attachments/assets/b3ebe625-c965-4250-b8bf-52165903c31b" />
 
 ## 🔍 Overview
 
